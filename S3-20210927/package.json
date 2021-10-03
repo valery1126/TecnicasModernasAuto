@@ -1,0 +1,23 @@
+{
+  "name": "s3-20210927",
+  "version": "1.0.0",
+  "description": "Proyecto U Creativa Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valery1126/TecnicasModernasAuto.git"
+  },
+  "keywords": [
+    "ucreativa",
+    "cypress"
+  ],
+  "author": "Valery C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valery1126/TecnicasModernasAuto/issues"
+  },
+  "homepage": "https://github.com/valery1126/TecnicasModernasAuto#readme"
+}
