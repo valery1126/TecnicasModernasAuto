@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/valery1126/TecnicasModernasAuto/issues"
   },
-  "homepage": "https://github.com/valery1126/TecnicasModernasAuto#readme"
+  "homepage": "https://github.com/valery1126/TecnicasModernasAuto#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
 }
